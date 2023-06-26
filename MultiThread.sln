@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThread", "MultiThread\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singlethread", "Singlethread\Singlethread.csproj", "{8AB002CC-3FC1-4A22-915C-39A38B1D2B97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async and sync", "async and sync\async and sync.csproj", "{9803F1FE-1CE2-4B92-B687-49888CCB2E02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8AB002CC-3FC1-4A22-915C-39A38B1D2B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AB002CC-3FC1-4A22-915C-39A38B1D2B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AB002CC-3FC1-4A22-915C-39A38B1D2B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9803F1FE-1CE2-4B92-B687-49888CCB2E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9803F1FE-1CE2-4B92-B687-49888CCB2E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9803F1FE-1CE2-4B92-B687-49888CCB2E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9803F1FE-1CE2-4B92-B687-49888CCB2E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
